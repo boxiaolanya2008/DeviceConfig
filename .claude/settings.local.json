@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gradlew.bat assembleDebug:*)",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(java:*)",
+      "Bash(./gradlew:*)",
+      "Bash(where:*)",
+      "Bash(\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java.exe\":*)",
+      "Bash(gh auth status:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(mkdir:*)"
+    ]
+  }
+}
