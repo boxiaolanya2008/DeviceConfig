@@ -58,19 +58,6 @@
 - 🔧 访问需要更高权限的命名空间
 - ⚡ 更快速、更稳定的配置读取
 
----
-
-## 📸 应用截图
-
-<!-- 待添加截图 -->
-<div align="center">
-  <img src="fastlane/metadata/android/phoneScreenshots/1-main.png" alt="主界面" width="300">
-  <img src="fastlane/metadata/android/phoneScreenshots/2-search.png" alt="搜索功能" width="300">
-  <img src="fastlane/metadata/android/phoneScreenshots/3-detail.png" alt="配置详情" width="300">
-</div>
-
----
-
 ## 🛠️ 技术栈
 
 - **语言**: Kotlin 100%
